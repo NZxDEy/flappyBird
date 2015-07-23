@@ -16,6 +16,6 @@ Via this application learn iOS Programming.
 
 
 
-References:\\
-1. http://www.tangide.com/
+References:
+http://www.tangide.com/
 
