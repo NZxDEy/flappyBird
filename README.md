@@ -6,6 +6,7 @@ Via this application learn iOS Programming.
 3. Always use version control before you modify your code.
 4. It supports English and Chinese.
 5. It may or may not support autorotation.
+6. It does not support dynamic type (fixed size of text).
 
 
 
