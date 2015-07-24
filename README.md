@@ -16,6 +16,7 @@ Via this application learn iOS Programming.
 
 
 
-References:\\newline
+References:
 http://www.tangide.com/
+Learn cocos2d 2 Game Development for iOS
 
