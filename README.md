@@ -5,6 +5,7 @@ Via this application learn iOS Programming.
 2. It should be a 2D game and use a physics engine.
 3. Always use version control before you modify your code.
 4. It supports English and Chinese.
+5. It may or may not support autorotation.
 
 
 
