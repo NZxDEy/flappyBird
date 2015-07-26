@@ -21,7 +21,7 @@ Via this application learn iOS Programming.
 
 References:
                                                                                                      
-1. http://www.tangide.com/        An Online HTML5 Game Builder
+1. http://www.tangide.com        An Online HTML5 Game Builder
 2. Stanford Universtiy: Developing Apps for iOS 2013 fall 
 3. Learn cocos2d 2 Game Development for iOS
 
