@@ -24,4 +24,6 @@ References:
 1. http://www.tangide.com        An Online HTML5 Game Builder
 2. Stanford University: Developing Apps for iOS 2013 fall 
 3. Learn cocos2d 2 Game Development for iOS
+4. MVC    https://developer.apple.com/library/ios/documentation/General/Conceptual/CocoaEncyclopedia/Model-View-Controller/Model-View-Controller.html#//apple_ref/doc/uid/TP40010810-CH14-SW1
+
 
